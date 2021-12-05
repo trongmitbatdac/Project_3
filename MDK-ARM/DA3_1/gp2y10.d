@@ -1,0 +1,10 @@
+da3_1\gp2y10.o: ..\Src\gp2y10.c
+da3_1\gp2y10.o: ../Inc/gp2y10.h
+da3_1\gp2y10.o: C:\Users\admin\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h
+da3_1\gp2y10.o: .\RTE\_DA3_1\RTE_Components.h
+da3_1\gp2y10.o: ../Drivers/CMSIS/Include/core_cm3.h
+da3_1\gp2y10.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+da3_1\gp2y10.o: ../Drivers/CMSIS/Include/cmsis_version.h
+da3_1\gp2y10.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+da3_1\gp2y10.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+da3_1\gp2y10.o: C:\Users\admin\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h
